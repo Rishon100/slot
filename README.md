@@ -27,12 +27,12 @@ Execute the program using runserver command.
 ```
 html>
       <body>
+          <img src="logo.png" width="40%">
           <h1> V Rishon Anand (24900460)</h1>
-          <img src="logo.png" width="65%">
             <table border= "1" cellspacing="5" cellpadding="10">
                 <caption> Time table </caption>
                   <tr>
-                      <th color="red"> Days </th>
+                      <th> Days </th>
                       <th> 8:00 am to 10:00 am </th>
                       <th> 10:00 am to 12:00 pm </th>
                       <th> 12:00 pm to 1:00 pm </th>
@@ -86,7 +86,7 @@ html>
                       
                   </tr>
        </table>           
-        <table border = "2" cellspacing=""3" cellpadding="8"
+        <table border = "2" cellspacing=""3" cellpadding="8">
         <tr>         
             <th> S.no </th>
             <th> Course </th>
