@@ -25,7 +25,7 @@ Execute the program using runserver command.
 
 ## PROGRAM
 ```
-html>
+<html>
       <body>
           <img src="logo.png" width="40%">
           <h1> V Rishon Anand (24900460)</h1>
