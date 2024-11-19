@@ -27,6 +27,7 @@ Execute the program using runserver command.
 ```
 html>
       <body>
+          <h1> V Rishon Anand (24900460)</h1>
           <img src="logo.png" width="65%">
             <table border= "1" cellspacing="5" cellpadding="10">
                 <caption> Time table </caption>
