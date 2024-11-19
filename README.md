@@ -29,7 +29,7 @@ html>
       <body>
           <img src="logo.png" width="40%">
           <h1> V Rishon Anand (24900460)</h1>
-            <table border= "1" cellspacing="5" cellpadding="10">
+            <table border= "1" cellspacing="5" cellpadding="8">
                 <caption> Time table </caption>
                   <tr>
                       <th> Days </th>
